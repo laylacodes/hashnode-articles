@@ -1,0 +1,73 @@
+## Creating an ATP Database with Oracle SQL Developer Web
+
+Howdy coders! As some of you may have seen on Twitter, I'm spending my whole Summer interning at Oracle on the Database Tools team!! 
+<iframe src="https://giphy.com/embed/H85LpFTwMZPoc" width="240" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/H85LpFTwMZPoc"></p>
+
+And something INSANELY cool that a lot of folks *don't know* about Oracle, is that they have **a free web version of their Oracle Database, that includes a web version of SQL Developer...** Yep. That's right. No more downloading, no more setting up a virtual machine. It's ALL stored on the OC (Oracle Cloud) and it's *free*. 
+<br>
+<br>
+ *LET THE SET UP TUTORIAL COMMENCE* 
+<br>
+<h2> STEPS </h2>
+<h3> 1) Create an Oracle Cloud account </h3>
+
+Follow the steps to create your Oracle Cloud account! It's free to sign up, and the *'Always Free'* access will always include these services:
+
+- Autonomous Database
+
+- Object storage
+ 
+PLUS, you receive $300 of credits for 30 days to use on these services:
+
+- Container Engine for Kubernetes
+
+- Analytics Cloud
+
+- Data Integration
+
+![pic1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654119937618/LHcVce86T.png align="left")
+
+<h3> 2) Go back to cloud.oracle.com </h3>
+
+Sign into your new account :)
+
+<h3> 3) Scroll down to *Launch Resources* </h3>
+
+<iframe src="https://giphy.com/embed/QKn4Bp91hAivguirsw" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+
+<h3> 4) Click *Create an ATP database* </h3>
+
+![pic2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654120061772/-xAcJvFGP.png align="left")
+
+<h3>5) Configure your ATP database</h3>
+
+These are the settings I use to create my Autonomous Transaction Processing Database (I basically keep everything the same EXCEPT for *"Choose License and Oracle Database Edition"*, for that section I choose *"License Included". Also - make sure to toggle 'Always Free' on*) - but you're more than welcome to use your own :^) 
+
+<iframe src="https://giphy.com/embed/xcMbo8oI8goW1YB06a" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+
+*'Provisioning'* is just a fancy word for setting up! Wait a few minutes before moving onto the next step if you see the orange 🟠 icon:
+![pic3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654120258264/rWrDpIb5u.png align="left")
+
+<h3> 6) Press *Database Actions* </h3>
+If your orange 🟠 icon has turned green 🟢, **your database is ready!** :)
+
+![picc.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654181851597/m3N4ObLxz.png align="left")
+
+Now, it may take a second or two to *'initialize database actions'*, but it should take you to your Database Actions Launchpad pretty quickly! 
+
+In your launchpad, there will be a handful of tools for you to use - BUT, if you're trying to get *straight into* the SQL, click *'SQL'* to visit the **SQL Developer Web application** and follow the guided tour ;D
+
+
+![PIC4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654120760007/kC12RbKDO.png align="left")
+
+If you're an SQL beginner, like myself, or _even_ if you're an SQL veteran: I _highly_ recommend taking the time to go through the guided tour of the environment. It's very straight to the point, but shows you exactly where all your necessary tools are to dive straight into creating queries! ✍🏽
+- here's an example of how the SQL command line runs in SQL Developer Web:
+![pic5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654120899827/LHh0cPY0Z.png align="left")
+_____
+
+I hope this helped you get started with Oracle SQL Developer Web *AND* Oracle's Cloud Infrastructure! 🧡 
+
+I'm spending my Summer at Oracle, and plan on creating more Oracle/SQL content! If you'd like to make sure you see my next post, give me a follow here on [Hashnode](https://hashnode.com/@laylacodes) OR follow me on [Twitter](https://twitter.com/pilatesdev) :D
+
+See ya in my next post! :)
+<iframe src="https://giphy.com/embed/m9eG1qVjvN56H0MXt8" width="235" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
