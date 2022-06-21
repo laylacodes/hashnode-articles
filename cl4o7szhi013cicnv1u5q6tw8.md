@@ -29,15 +29,15 @@ So, now click the name of your Database & that'll take you directly to your `Aut
 
 ![ss4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655385530521/Qhe02YHLM.png align="left")
 ___
-#### Step 4) Click on `Database Actions`
+#### Step 3) Click on `Database Actions`
 _____
-#### Step 5) Click on `SQL`
+#### Step 4) Click on `SQL`
 
 
 ![ss5.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1655473257705/-mbsoRuWz.jpg align="left")
 📌 (Fun fact: you can bookmark this page to be able to refer back to your Database Launchpad **directly!**)
 ______
-#### Step 6) Click the `...` 
+#### Step 5) Click the `...` 
 ![ss9.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655474103129/TwkZXx4cO.png align="left")
 
 And click `Data Loading` ► `Upload Data Into New Table`
