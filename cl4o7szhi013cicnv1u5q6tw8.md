@@ -58,7 +58,8 @@ See below:
 
 Follow the GIF below to see the whole process:
 
-<iframe src='https://gfycat.com/ifr/ShadyAstonishingIndusriverdolphin' frameborder='0' scrolling='no' allowfullscreen width='600' height='355'></iframe>
+
+![ezgif.com-gif-maker (1).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1655823554573/CJyiCyLw-.gif align="left")
 
 Now, your table is created, and populated with all the data from the file you uploaded! **SO EASY, RIGHT?** 💪🏽 and now when you run the query `SELECT * FROM your_new_table_name_here;` --> the table you just created with all your file data will show up! 
 
