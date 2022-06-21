@@ -69,7 +69,7 @@ See below:
 
 ______
 
-AND FIN - you just learned how to upload data into your database using Oracle SQL Developer Web! 😎  literally only takes 6 steps!
+AND FIN - you just learned how to upload data into your database using Oracle SQL Developer Web! 😎  literally only takes 5 steps!
 
 <iframe src="https://giphy.com/embed/S9i8jJxTvAKVHVMvvW" width="300" height="170" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/parksandrec-parks-and-recreation-rec-peacocktv-S9i8jJxTvAKVHVMvvW"></a></p>
 
