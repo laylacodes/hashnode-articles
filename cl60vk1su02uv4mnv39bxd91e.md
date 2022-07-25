@@ -47,7 +47,7 @@ _____
 
 Social media presence can be so beneficial, *if you use it the right way.* Here are a few pieces of advice I've curated from my own social media toolkit:
 
-### #1 **Share**
+#### #1 **Share**
 
 People want to hear your candid journey! Are you creating a product, learning a framework/language or going through a certification/course or degree? SHARE YOUR JOURNEY THROUGH THAT 🥳 share the notes you've created for your bootcamp/online course or share your experience being a first-time bootcamp attendee - WHATEVER your story is, share it! 
 
@@ -57,7 +57,7 @@ Let's not forget the main part of being an engineer? Admitting when you don't kn
 
 Share your triumphs AND your setbacks. Remind your followers, no matter how many you have, that they aren't alone in their shortcomings.
 
-### #2 **Put something out there!** 
+#### #2 **Put something out there!** 
 
 Give people a reason to follow you! Folks won't follow you just for no reason, what exactly are you providing to them in return for a *"Follow"*? A few ideas I have are: 
 - create cheatsheets based upon what language/framework you're using/learning
@@ -67,7 +67,7 @@ Give people a reason to follow you! Folks won't follow you just for no reason, w
 
 The most important thing about content creation, in my opinion, is to stay consistent, and create content about what you're passionate about. 🔥
 
-### #3 **Build meaningful connections** 
+#### #3 **Build meaningful connections** 
 
 Make sure you network! Reply to other people's tweets about their journey, what they're creating, etc. Engage in genuine, meaningful conversations with people in the Tech twitter community & that interest you show them will be reciprocated! If someone is creating content about a language you're learning in bootcamp/school/certification, make sure to tweet them and tell them! Let them know how helpful their content is to you. 
 
@@ -75,7 +75,7 @@ Or if you see somebody voicing their struggles in a certain bootcamp/language/fr
 
 However, keep in mind this shouldn't come across as transactional. Keeping things genuine and having positive intentions can really take you a long way. ✨
 
-### #4 **Your vibe attracts your tribe**
+#### #4 **Your vibe attracts your tribe**
 
 Stay away from creators who don't align with who you are or your brand. If you'd like to use your social media presence as a tool to possibly get hired from a reputable company, don't interact with creators who:
 - are always involved in drama/scandals/scams
