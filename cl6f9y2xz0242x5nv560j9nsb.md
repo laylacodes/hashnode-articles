@@ -14,7 +14,7 @@ Now, let me tell you all about my Summer internship at Oracle!
 _____
 
 # The first 2 weeks -> first month
-After getting my NEW MacBook Pro set up, my webcam, etc., I was ready for my first day! The first week of my internship was a *butt-ton* of onboarding events. We zoomed *(literally)* through slides about Oracle products, history, and values. There were two groups of Interns, with staggered start dates: I was in Intern Cohort 1, which was over THREE HUNDRED interns strong! It was so cool to see all the different universities everybody was from. Although I was probably the only intern from a community college, I was still proud to represent my school 😎 
+After getting my NEW MacBook Pro set up, my webcam, etc., I was ready for my first day! The first week of my internship was a *butt-ton* of onboarding events. We zoomed *(literally)* through slides about Oracle products, history, and values. There were two groups of Interns, with staggered start dates: I was in Intern Cohort 1, which was over ONE HUNDRED interns strong! It was so cool to see all the different universities everybody was from. Although I was probably the only intern from a community college, I was still proud to represent my school 😎 
 
 Week two came around and the regularly scheduled onboarding sessions were replaced with *real meetings* with my team! 📝 (And yes, I finally learned what a daily standup is 😂). My team, the SDW (**S**QL **D**eveloper **W**eb) team is responsible for creating and maintaining ANYTHING regarding the web version of Oracle SQL Developer.
 
