@@ -41,7 +41,7 @@ A few first steps I took to establish an MVP for the tool we wanted to create we
 
 4) starting on the HTML, CSS and JavaScript files, code reviews, merge requests, etc.!
 
-The truly amazing aspect about this project was: **It's a REAL tool that's going to be released in an upcoming update of Oracle's SQL Developer Web!** 🚀 I ALSO had the freedom to design the UI/UX mockups for all 3 pages I was creating. I took on full responsibility for researching and documenting features, user stories, AND had control over what the UI was going to look like, with feedback from my manager, of course! 
+The truly amazing aspect about this project was: **It's a REAL tool that's going to be released in an upcoming update of Oracle's SQL Developer Web!** 🚀 **I ALSO had the freedom to design the UI/UX mockups for all 3 pages I was creating, and code the entire front end!** I took on full responsibility for researching and documenting features, user stories, AND had control over what the UI was going to look like, with feedback from my manager, of course! 
 
 On top of the tool I was actively helping create, I was also engaging in some content creation for my team and Oracle! I had the opportunity to: 
 
