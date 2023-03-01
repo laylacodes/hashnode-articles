@@ -69,8 +69,8 @@ button.addEventListener("click", buttonClick);
 
 I defined a named function called `buttonClick` that logs *"Button clicked."* to the console when executed. Then, an event listener is added to the button element using `addEventListener`, passing in the event type (`"click"`) and the `buttonClick` function!
 
-**You can also *remove*** `event listeners` **by using the** `removeEventListener()` **method!**  
-  
+**You can also *remove*** `event listeners` **by using the** `removeEventListener()` **method!**
+
 Here's an example using the same named function `buttonClick`:
 
 ```javascript
@@ -137,6 +137,6 @@ So, in conclusion:
 
 ---
 
-I hope this helped clear up any confusion you had about event handlers & listeners!! If it did, give me a follow on Twitter or here on Hashnode 😄
+I hope this helped clear up any confusion you had about event handlers & listeners!! If it did, give me a follow on [Twitter](https://twitter.com/pilatesdev) or here on [Hashnode](https://hashnode.com/@laylacodes) 😄
 
 🧡 My website: [https://laylacodes.github.io/](https://laylacodes.github.io/)
