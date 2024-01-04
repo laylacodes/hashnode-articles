@@ -65,7 +65,7 @@ Code reviews sounded *extremely* daunting initially, but I've learned they're ac
 
 ## 8\. Networking inside out
 
-Forming connections isn't just about having a chat over coffee (though that's fun too ofc). It's about building lasting relationships that enrich your career journey. I've learned soooo much just by listening to others' stories (whether that be fellow interns or Senior Directors, VP's, etc.) and experiences at Oracle, and I'm lucky to have multiple mentors that are so invested in my career. Making those genuine connections leads to so many open doors, mentor ships, promotions, new job opportunities, etc. So, lean into networking as much as you can!
+Forming connections isn't just about having a chat over coffee (though that's fun too ofc). It's about building lasting relationships that enrich your career journey. I've learned soooo much just by listening to others' stories (whether that be fellow interns or Senior Directors, VP's, etc.) and experiences at Oracle, and I'm lucky to have multiple mentors that are so invested in my career. Making those genuine connections leads to so many open doors, mentorships, promotions, new job opportunities, etc. So, lean into networking as much as you can!
 
 ## 9\. Growth mindset
 
@@ -75,7 +75,7 @@ The tech field never stands still- and neither should we, folks 🔥 Embracing a
 
 ## 10\. Wellness and boundaries 🛀
 
-All work and no play? Hail no!!! Maintaining a work-life balance is ***necessary***, as I've discovered in my first three months as a full-time developer. Setting boundaries, taking breaks, and indulging in what makes you happy outside of work isn't just okay – it's essential for your daily success. Make sure to cut off your workday right at 5 PM, silencing those Slack notifications as you do. Why not take a walk during lunch or read a few pages of a book to unwind after a long day? Whatever activity brings you joy, make time for it. It will not only enrich your personal life but also enhance your productivity and satisfaction at work, I assure you!
+All work and no play? Hail no!!! Maintaining a work-life balance is ***necessary***, as I've discovered in my first three months as a full-time dev. Setting boundaries, taking breaks, and indulging in what makes you happy outside of work isn't just okay – it's essential for your daily success. Make sure to cut off your workday right at 5 PM, silencing those Slack notifications as you do. Why not take a walk during lunch or read a few pages of a book to unwind after a long day? Whatever activity brings you joy, make time for it. It will not only enrich your personal life but also enhance your productivity and satisfaction at work, I assure you!!
 
 ## 11\. Tech community: *a world of support* 🌟
 
