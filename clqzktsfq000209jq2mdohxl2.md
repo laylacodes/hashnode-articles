@@ -18,7 +18,7 @@ I've learned so much in these first 3 months...and I want to share some nuggets 
 
 ---
 
-# 1\. Taking notes like a pro 📝
+## 1\. Taking notes like a pro 📝
 
 Whether it's a sprint meeting or a casual brainstorming session, I've learned to keep a notebook handy. Action items, objectives, and even random thoughts can turn into ***gold*** later. Plus, it helps me stay organized and focused - no more "*Oh no, I forgot about that!*" moments.
 
@@ -41,49 +41,49 @@ In this structure, I'll organize it like this:
 
 ---
 
-# 2\. Asking questions: *the clarity quest*
+## 2\. Asking questions: *the clarity quest*
 
 In the beginning of my full-time role at Oracle, I was a bit shy to ask questions. But, I quickly learned that's the quickest path to failure. **Every question** is a stepping stone to clarity. My team genuinely appreciates it when I ask, as it often leads to better solutions and avoids misunderstandings. Remember, there's no such thing as a silly question, *even if you may truly believe it is a silly question*!
 
 ---
 
-# 3\. Documenting the journey
+## 3\. Documenting the journey
 
 Every feature I work on, every bit of research or self-learning, I make sure to jot it down. It's not just for my benefit; it's for anyone who might follow in my footsteps or work with the feature I'm developing. Sharing knowledge is a way of showing care, and there's a real sense of fulfillment when someone stumbles upon your notes (or Confluence page) and exclaims, *'This is exactly what I needed!'* 😮‍💨
 
 ---
 
-# 4\. Quick calls &gt; endless chats
+## 4\. Quick calls &gt; endless chats
 
 Slack and messaging are great, but when things start to get tricky, I've found it's way better to just hop on a quick call and share my screen. It saves so much time and gets straight to the point. Plus, when I need help, I make sure I've got my questions ready and *really* understand what's going wrong to ensure a smooth debugging process. Picking the right person or Slack channel to ask is ***key***. They can see exactly where I'm stuck and give me the help I need right away. It's all about making things easier and getting to the solution faster.
 
 ---
 
-# 5\. Navigating the code base 🧭
+## 5\. Navigating the code base 🧭
 
 Getting to know a new code base felt like walking into a **MAZE** at first. But with some patience and plenty of clicking around, I began to understand the flow and structure. Having the opportunity to work on the LiveSQL project as an intern in Summer 2023, before going full-time in September, definitely helped. But here's a tip: don't be shy to dive into different files *or* ask for a code base tour from a colleague! Remember, ***you're part of a team***, and you're all there to support each other in your coding journey.
 
 ---
 
-# 6\. Time management: *the art of juggling*
+## 6\. Time management: *the art of juggling*
 
 Balancing learning with doing is **crucial**. I (*try to*) prioritize tasks based on deadlines and complexity, always making sure to carve out time for learning new things. It's all about finding that sweet spot where productivity meets continuous personal growth. I'm ***still*** mastering that art myself, but it's an essential part of developing and advancing in any career.
 
 ---
 
-# 7\. Embrace code reviews 🤝
+## 7\. Embrace code reviews 🤝
 
 Code reviews sounded *extremely* daunting initially, but I've learned they're actually gems in disguise. Giving and receiving feedback on my code has sharpened my skills and taught me new perspectives, especially when it comes to writing ***clean, understandable*** code for my peers. Plus, reviewing others' code is like a treasure hunt for knowledge tbh!!
 
 ---
 
-# 8\. Networking inside out
+## 8\. Networking inside out
 
 Forming connections isn't just about having a chat over coffee (though that's fun too ofc). It's about building lasting relationships that enrich your career journey. I've learned soooo much just by listening to others' stories (whether that be fellow interns or Senior Directors, VP's, etc.) and experiences at Oracle, and I'm lucky to have multiple mentors that are so invested in my career. Making those genuine connections leads to so many open doors, mentor ships, promotions, new job opportunities, etc. So, lean into networking as much as you can!
 
 ---
 
-# 9\. Growth mindset
+## 9\. Growth mindset
 
 The tech field never stands still- and neither should we, folks 🔥 Embracing a growth mindset means being open to new challenges and learning from every stumble. Remember, ***each mistake is a lesson, not a setback***. And when it comes to constructive criticism or feedback, don't take it personally; it's a catalyst for your advancement! My perspective on feedback with a growth mindset is:
 
@@ -91,13 +91,13 @@ The tech field never stands still- and neither should we, folks 🔥 Embracing a
 
 ---
 
-# 10\. Wellness and boundaries 🛀
+## 10\. Wellness and boundaries 🛀
 
 All work and no play? Hail no!!! Maintaining a work-life balance is ***necessary***, as I've discovered in my first three months as a full-time developer. Setting boundaries, taking breaks, and indulging in what makes you happy outside of work isn't just okay – it's essential for your daily success. Make sure to cut off your workday right at 5 PM, silencing those Slack notifications as you do. Why not take a walk during lunch or read a few pages of a book to unwind after a long day? Whatever activity brings you joy, make time for it. It will not only enrich your personal life but also enhance your productivity and satisfaction at work, I assure you!
 
 ---
 
-# 11\. Tech community: *a world of support* 🌟
+## 11\. Tech community: *a world of support* 🌟
 
 Being part of the tech community has given me a ***profound*** sense of belonging and an invaluable resource for continuous learning. Engaging in discussions, sharing experiences, and even just observing (what I like to call *lurking*) has enriched my understanding and expanded my skills!
 
