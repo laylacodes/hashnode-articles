@@ -62,7 +62,7 @@ Assuming you've already created an Oracle Cloud database...if not, follow that Y
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">NOTE: you can also use your connections from the SQL Developer application, just choose a different Connection Type when setting up your new database connection. -&gt; My manager, Jeff, has an awesome blog post detailing the steps for importing your connections from SQL Developer to the VsCode extension: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.thatjeffsmith.com/archive/2024/01/how-to-import-connections-from-sql-developer-to-vs-code/" style="pointer-events: none">https://www.thatjeffsmith.com/archive/2024/01/how-to-import-connections-from-sql-developer-to-vs-code/</a></div>
+<div data-node-type="callout-text">NOTE: this isn't the only way to connect your Oracle Database, just choose a different Connection Type when setting up your new database connection. -&gt; My manager, Jeff, has an awesome blog post detailing the multiple ways you can connect your Oracle DB's to VsCode: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.thatjeffsmith.com/archive/2024/01/how-to-import-connections-from-sql-developer-to-vs-code/" style="pointer-events: none">https://www.thatjeffsmith.com/archive/2024/01/how-to-import-connections-from-sql-developer-to-vs-code/</a></div>
 </div>
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705689101647/6199da7b-47bd-4bc5-bdc2-b167822916a8.png align="center")
