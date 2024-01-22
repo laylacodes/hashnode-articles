@@ -49,7 +49,6 @@ Steps:
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705954490855/e15c5752-6961-4a3e-8d1a-026f83981bd4.png align="left")
     
-
 * click `Install`
     
 
@@ -63,7 +62,7 @@ Assuming you've already created an Oracle Cloud database...if not, follow that Y
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">NOTE: you can also connect on-premise databases, just choose a different Connection Type when setting up your new database connection. <em>Connection Types available in the extension: Basic, Custom JDBC, Cloud Wallet, TNS</em></div>
+<div data-node-type="callout-text">NOTE: you can also use your connections from the SQL Developer application, just choose a different Connection Type when setting up your new database connection. -&gt; My manager, Jeff, has an awesome blog post detailing the steps for importing your connections from SQL Developer to the VsCode extension: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.thatjeffsmith.com/archive/2024/01/how-to-import-connections-from-sql-developer-to-vs-code/" style="pointer-events: none">https://www.thatjeffsmith.com/archive/2024/01/how-to-import-connections-from-sql-developer-to-vs-code/</a></div>
 </div>
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705689101647/6199da7b-47bd-4bc5-bdc2-b167822916a8.png align="center")
@@ -205,8 +204,8 @@ Congrats, you've officially connected your Oracle Cloud Database to VsCode, and 
 
 %[https://giphy.com/gifs/season-17-the-simpsons-17x10-xT5LMHxhOfscxPfIfm] 
 
-I'm so excited to see what all everyone does with this new incredible extension! And if you haven't tried it out yet, I hope my enthusiasm has persuaded you to give it a try – I'm confident you'll find it worthwhile! 😊  
-  
+I'm so excited to see what all everyone does with this new incredible extension! And if you haven't tried it out yet, I hope my enthusiasm has persuaded you to give it a try – I'm confident you'll find it worthwhile! 😊
+
 [**If you DO like the new extension, please give it a 5 star rating on the Visual Studio Marketplace for me! That would mean so much to the Database Tools team (who created this extension) and myself.**](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer)
 
 And lastly, you have any questions or concerns, please don't hesitate to ping me on X! 🧡 My personal website, with all my contact info: [lay.codes](https://lay.codes)
