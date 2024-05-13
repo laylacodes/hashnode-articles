@@ -20,68 +20,68 @@ LET THE SET UP TUTORIAL COMMENCE!
 
 %[https://www.youtube.com/watch?v=bmCHIJqegJo] 
 
-## [STEPS](https://giphy.com/gifs/H85LpFTwMZPoc)
+## STEPS
 
-### [1) Create an Oracle Cloud account](https://giphy.com/gifs/H85LpFTwMZPoc)
+### 1) Create an Oracle Cloud account
 
-[Follow the steps to create your Oracle Cloud account! It's free to sign up, and the *'Always Free'* access will always include these services:](https://giphy.com/gifs/H85LpFTwMZPoc)
+Follow the steps to create your Oracle Cloud account! It's free to sign up, and the *'Always Free'* access will always include these services:
 
-* [Autonomous Database](https://giphy.com/gifs/H85LpFTwMZPoc)
+* Autonomous Database
     
-* [Object storage](https://giphy.com/gifs/H85LpFTwMZPoc)
+* Object storage
     
 
-[PLUS, you receive $300 of credits for 30 days to use on these services:](https://giphy.com/gifs/H85LpFTwMZPoc)
+PLUS, you receive $300 of credits for 30 days to use on these services:
 
-* [Container Engine for Kubernetes](https://giphy.com/gifs/H85LpFTwMZPoc)
+* Container Engine for Kubernetes
     
-* [Analytics Cloud](https://giphy.com/gifs/H85LpFTwMZPoc)
+* Analytics Cloud
     
-* [Data Integration](https://giphy.com/gifs/H85LpFTwMZPoc)
+* Data Integration
     
 
 ![pic1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654119937618/LHcVce86T.png align="left")
 
-### [2) Go back to cloud.oracle.com](https://giphy.com/gifs/H85LpFTwMZPoc)
+### 2) Go back to cloud.oracle.com
 
-[Sign into your new account :)](https://giphy.com/gifs/H85LpFTwMZPoc)
+Sign into your new account :)
 
-### [3) Scroll down to \*Launch Resources\*](https://giphy.com/gifs/H85LpFTwMZPoc)
+### 3) Scroll down to \*Launch Resources\*
 
-### [4) Click \*Create an ATP database\*](https://giphy.com/gifs/H85LpFTwMZPoc)
+### 4) Click \*Create an ATP database\*
 
 ![pic2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654120061772/-xAcJvFGP.png align="left")
 
-### [5) Configure your ATP database](https://giphy.com/gifs/H85LpFTwMZPoc)
+### 5) Configure your ATP database
 
-[These are the settings I use to create my Autonomous Transaction Processing Database (I basically keep everything the same EXCEPT for *"Choose License and Oracle Database Edition"*, for that section I choose *"License Included". Also - make sure to toggle 'Always Free' on*) - but you're more than welcome to use your own :^)](https://giphy.com/gifs/H85LpFTwMZPoc)
+These are the settings I use to create my Autonomous Transaction Processing Database (I basically keep everything the same EXCEPT for *"Choose License and Oracle Database Edition"*, for that section I choose *"License Included". Also - make sure to toggle 'Always Free' on*) - but you're more than welcome to use your own :^)
 
-[*'Provisioning'* is just a fancy word for setting up! Wait a few minutes before moving onto the next step if you see the orange 🟠 icon:](https://giphy.com/gifs/H85LpFTwMZPoc)
+*'Provisioning'* is just a fancy word for setting up! Wait a few minutes before moving onto the next step if you see the orange 🟠 icon:
 
-### [6) Press \*Database Actions\*](https://giphy.com/gifs/H85LpFTwMZPoc)
+### 6) Press \*Database Actions\*
 
-[If your orange 🟠 icon has turned green 🟢, \*\*your database is ready!\*\* :)](https://giphy.com/gifs/H85LpFTwMZPoc)
+If your orange 🟠 icon has turned green 🟢, **your database is ready!**
 
 ![picc.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654181851597/m3N4ObLxz.png align="left")
 
-[Now, it may take a second or two to *'initialize database actions'*, but it should take you to your Database Actions Launchpad pretty quickly!](https://giphy.com/gifs/H85LpFTwMZPoc)
+Now, it may take a second or two to *'initialize database actions'*, but it should take you to your Database Actions Launchpad pretty quickly!
 
-[In your launchpad, there will be a handful of tools for you to use - BUT, if you're trying to get *straight into* the SQL, click *'SQL'* to visit the **SQL Developer Web application** and follow the guided tour ;D](https://giphy.com/gifs/H85LpFTwMZPoc)
+In your launchpad, there will be a handful of tools for you to use - BUT, if you're trying to get *straight into* the SQL, click *'SQL'* to visit the **SQL Developer Web application** and follow the guided tour:
 
 ![PIC4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654120760007/kC12RbKDO.png align="left")
 
-[If you're an SQL beginner, like myself, or *even* if you're an SQL veteran: I *highly* recommend taking the time to go through the guided tour of the environment. It's very straight to the point, but shows you exactly where all your necessary tools are to dive straight into creating queries! ✍🏽](https://giphy.com/gifs/H85LpFTwMZPoc)
+If you're an SQL beginner, like myself, or *even* if you're an SQL veteran: I *highly* recommend taking the time to go through the guided tour of the environment. It's very straight to the point, but shows you exactly where all your necessary tools are to dive straight into creating queries! ✍🏽
 
-* [here's an example of how the SQL command line runs in SQL Developer Web:](https://giphy.com/gifs/H85LpFTwMZPoc)
+* here's an example of how the SQL command line runs in SQL Developer Web:
     
     ![pic5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654120899827/LHh0cPY0Z.png align="left")
     
 
 ---
 
-[I hope this helped you get started with Oracle SQL Developer Web *AND* Oracle's Cloud Infrastructure! 🧡](https://giphy.com/gifs/H85LpFTwMZPoc)
+I hope this helped you get started with Oracle SQL Developer Web *AND* Oracle's Cloud Infrastructure! 🧡
 
-[I'm spending my Summer at Oracle, and plan on creating more Oracle/SQL content! If you'd like to make sure you see my next post, give me a follow here on](https://giphy.com/gifs/H85LpFTwMZPoc) [Hashnode](https://hashnode.com/@laylacodes) OR follow me on [Twitter](https://twitter.com/pilatesdev) :D
+I'm spending my Summer at Oracle, and plan on creating more Oracle/SQL content! If you'd like to make sure you see my next post, give me a follow here on [Hashnode](https://hashnode.com/@laylacodes) OR follow me on [Twitter](https://twitter.com/pilatesdev) :D
 
 See ya in my next post! :)
 
