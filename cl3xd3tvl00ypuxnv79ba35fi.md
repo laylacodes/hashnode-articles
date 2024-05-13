@@ -12,9 +12,9 @@ Howdy coders! As some of you may have seen on Twitter, I'm spending my whole Sum
 
 <iframe src="https://giphy.com/embed/H85LpFTwMZPoc" width="240" height="202" class="giphy-embed"></iframe>
 
-[And something INSANELY cool that a lot of folks *don't know* about Oracle, is that they have **a free web version of their Oracle Database, that includes a web version of SQL Developer...** Yep. That's right. No more downloading, no more setting up a virtual machine. It's ALL stored on the OC (Oracle Cloud) and it's *free*.  
-  
-*LET THE SET UP TUTORIAL COMMENCE*](https://giphy.com/gifs/H85LpFTwMZPoc)
+And something INSANELY cool that a lot of folks don't know about Oracle, is that they have a free web version of their Oracle Database, that includes a web version of SQL Developer... Yep. That's right. No more downloading, no more setting up a virtual machine. It's ALL stored on the OC (Oracle Cloud) and it's free.
+
+LET THE SET UP TUTORIAL COMMENCE!
 
 *Or* you can watch the Youtube video of this tutorial from my Youtube channel:
 
