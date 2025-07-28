@@ -3,7 +3,7 @@ title: "Interactive SQL examples in your blog, using LiveSQL"
 datePublished: Mon Jul 28 2025 19:13:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmdnhjtax001c02l42ybmg195
 slug: interactive-sql-examples-using-livesql
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753718976779/70387ed5-82a0-444f-8c16-db3186f43d34.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753730050964/75b3ea0f-0a16-4c4e-88b9-bb6cc7e8d5de.png
 tags: blogging, databases, sql, howtos
 
 ---
