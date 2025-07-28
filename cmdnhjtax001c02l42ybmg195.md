@@ -1,0 +1,150 @@
+---
+title: "Interactive SQL examples in your blog, using LiveSQL"
+datePublished: Mon Jul 28 2025 19:13:00 GMT+0000 (Coordinated Universal Time)
+cuid: cmdnhjtax001c02l42ybmg195
+slug: interactive-sql-examples-using-livesql
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753718976779/70387ed5-82a0-444f-8c16-db3186f43d34.png
+tags: blogging, databases, sql, howtos
+
+---
+
+Ever wish your blogs’ readers could go from “*wow, that’s cool*” to “*let me try that!*” in a heartbeat? Enter the **Run in LiveSQL** button and the **Live SQL embeddable editor** - your secret weapons for turning static code snippets into a hands‑on experience 🤙🏽 No clunky `.zip` downloads. No manual copy‑pasting. Just one tap, and boom: your SQL runs live in Oracle’s cloud editor! 🤗
+
+The Live SQL team has created two options for you to share interactive snippets with your audience:
+
+1. **Run in Live SQL** button: a one-click link that opens your snippet in Live SQL
+    
+2. **Embedded Editor** iframe: a fully interactive editor *right on your page*
+    
+
+Below, I’ll walk you through how to set each up; complete with screenshots and best practices—so your post is both informative and hands-on. Let’s get crackin’!
+
+---
+
+## Why Add Interactive SQL Snippets?
+
+Embedding runnable examples…
+
+* **Engages readers** by letting them experiment with your code right then and there
+    
+* **Demonstrates concepts** more clearly than static code or screenshots
+    
+* **Boosts time on page** as readers play with queries, experiment with concepts, etc.
+    
+
+---
+
+## 1\. “Run in Live SQL” Button
+
+### Step 1: Generate Your Shareable Link
+
+1. **Open Live SQL** and paste your SQL snippet into the editor.
+    
+2. Click the **Share** button.
+    
+
+![Share Code” button in Live SQL’s worksheet](https://cdn.hashnode.com/res/hashnode/image/upload/v1753551889112/98bdf12b-9657-4dee-a5d8-3eeffc0b51eb.gif align="center")
+
+3. In the dialog that appears, select **Run in Live SQL Button** and toggle **Show Code**.
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753729684714/680a36cb-e98c-4cd5-91e4-efec77897cfd.gif align="right")
+
+4. **Copy** the generated HTML snippet (it’ll look like an `<a href="…">` tag).
+    
+
+### Step 2: Turn It into a Blog-Friendly Button
+
+If your blog platform **doesn’t** let you paste raw HTML:
+
+1. Within the “*Share Code”* sliding drawer, click the *“Share Link”* tab. And copy the URL displayed. It looks something like this:
+    
+
+```plaintext
+https://livesql.oracle.com/next/?compressed_code=H4sIA…&code_language=PL_SQL
+```
+
+Here’s where you can find the “*Share Link*” tab:
+
+![“Share Link” dialog showing the URL](https://cdn.hashnode.com/res/hashnode/image/upload/v1753715216430/d7d8a8f3-054e-47c2-9381-4b3570ed19de.gif align="center")
+
+2. **Host** your “Run in Live SQL” button graphic somewhere public (GitHub, your own CDN, etc.) and grab its direct image URL.
+    
+3. Drop this Markdown into your post:
+    
+    ```markdown
+    [![Run in Live SQL](ICON_URL)](LIVE_SQL_SHARE_URL)
+    ```
+    
+    * `ICON_URL`: where you hosted the button image
+        
+    * `LIVE_SQL_SHARE_URL`: the full compressed\_code link from Live SQL
+        
+
+That snippet renders a clickable image that launches your SQL in Live SQL, like shown below:
+
+[![Run in Live SQL](https://raw.githubusercontent.com/laylacodes/sqlproject/d332d4e93413711255815dcf3772414b3276cf0a/runinlivesqlicon.jpg align="left")](https://livesql.oracle.com/next/?compressed_code=%E2%80%A6)
+
+> **Tip:** If your platform *does* allow raw HTML, you can skip the Markdown workaround and just paste the original `<a>` tag you copied in Step 1.
+
+---
+
+## 2\. Embedded Live SQL Editor
+
+<iframe id="live-sql-embedded" src="https://livesql.oracle.com/next/embedded/?layout=vertical&compressed_code=H4sIAAAAAAAAE03KoQrDMBAGYJ%252Bn%252BF02WMyYapkIyZUUkh7kzkSFQufquom9fW0%252F%252FfmsVCEkMvMCIcWSpUev1CeuxSvesK215kpxMdrRCGUKCuUekq%252B3439s6%252FfzuC6k9HwNZR5E7N0AU%252BWC7bfuo3GOOJz3Hq2ddQAAAA%253D%253D&code_language=PL_SQL&code_format=false" height="460px" width="100%" style="width:100%;border:1px solid #e0e0e0;border-radius:12px;overflow:hidden">Live SQL Embedded Playground</iframe>
+
+### Step 1: Get the Embed Code
+
+1. Back in Live SQL, click the **Share Code** button → **Embedded Editor**
+    
+2. Click the **Show Code** toggle.
+    
+3. Copy the `<iframe>` snippet provided, like shown below:
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753717103721/17c25ce5-db32-44b7-b898-cf9600fd3151.gif align="center")
+
+---
+
+### Step 2: Paste the Iframe into Your Blog Post
+
+1. Switch your blog to HTML/source view. Or if you use Hashnode, like me, type `/html` in the blog editor to bring up the Insert HTML option.
+    
+2. Paste the iframe where you want the editor to appear.
+    
+3. Save and preview - your live editor should load, complete with *Run*, *Clear*, and formatting tools.
+    
+
+Note the **Read Only** toggle button shown in your embedded editor:
+
+![Read / read write mode button in embedded Live SQL editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1753717275334/abf7301c-f315-4b8b-8bf3-7e3ea0c6ad53.jpeg align="center")
+
+This feature gives you (the embedded editor creator) the option to toggle your embedded editor to *read-write mode*, which means: when you switch on the *read-write toggle*, anyone viewing your embedded editor can sign in with their own Live SQL account and run or modify the code directly. All queries they execute will run against their personal schema!
+
+---
+
+### Wrapping Up
+
+And that’s it! 🎉 With just a few clicks, you can transform your static SQL snippets into an interactive playground that:
+
+* **Drives engagement** by letting readers tinker with your queries in real time
+    
+* **Illustrates concepts** far more clearly than screenshots or pasted code
+    
+* **Keeps folks on your page** as they explore, experiment, and learn with your queries!
+    
+
+#### A Few Pro Tips
+
+* **Preload sample data** in your snippet so readers can immediately see meaningful results
+    
+* **Limit write-mode embeds** to safe, *read-only* queries unless you explicitly want them to modify their own schema
+    
+* **Annotate your code** with comments and hints—the more guided the experience, the better :)
+    
+
+---
+
+> 🔗 **Share your feedback!** If you try this out in your next blog post, tweet at us @OracleLiveSQL or me @pilatesdev. We’d love to see what you build!
+
+Happy blogging—and happy querying! 🚀
