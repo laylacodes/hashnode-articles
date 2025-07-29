@@ -59,7 +59,7 @@ Embedding runnable examples…
     Simply paste the `<a>` tag you got from the previous step:
     
     ```plaintext
-    htmlCopyEdit<a href="https://livesql.oracle.com/next/?compressed_code=…&code_language=PL_SQL"
+    <a href="https://livesql.oracle.com/next/?compressed_code=…&code_language=PL_SQL"
        style="background-color:black;color:white;padding:0.4rem;border-radius:0.25rem;display:inline-flex;align-items:center;text-decoration:none;"
        target="_blank" rel="noopener">
       <img src="ICON_URL" alt="Run in Live SQL" style="width:20px;height:20px;margin-right:0.4rem;">
