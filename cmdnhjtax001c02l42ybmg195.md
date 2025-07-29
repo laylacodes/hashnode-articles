@@ -38,48 +38,50 @@ Embedding runnable examples…
 
 ### Step 1: Generate Your Shareable Link
 
-1. **Open Live SQL** and paste your SQL snippet into the editor.
+* **Open Live SQL** and paste your SQL snippet into the editor.
     
-2. Click the **Share** button.
+* Click the **Share** button.
     
 
 ![Share Code” button in Live SQL’s worksheet](https://cdn.hashnode.com/res/hashnode/image/upload/v1753551889112/98bdf12b-9657-4dee-a5d8-3eeffc0b51eb.gif align="center")
 
-3. In the dialog that appears, select **Run in Live SQL Button** and toggle **Show Code**.
+* In the dialog that appears, select **Run in Live SQL Button** and toggle **Show Code**.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753729684714/680a36cb-e98c-4cd5-91e4-efec77897cfd.gif align="right")
 
-4. **Copy** the generated HTML snippet (it’ll look like an `<a href="…">` tag).
+* **Copy** the generated HTML snippet (it’ll look like an `<a href="…">` tag).
     
 
 ### Step 2: Turn It into a Blog-Friendly Button
 
 If your blog platform **doesn’t** let you paste raw HTML:
 
-1. Within the “*Share Code”* sliding drawer, click the *“Share Link”* tab. And copy the URL displayed. It looks something like this:
+* Within the “*Share Code”* sliding drawer, click the *“Share Link”* tab. And copy the URL displayed. It looks something like this:
     
 
 ```plaintext
 https://livesql.oracle.com/next/?compressed_code=H4sIA…&code_language=PL_SQL
 ```
 
-Here’s where you can find the “*Share Link*” tab:
+* Here’s where you can find the “*Share Link*” tab:
+    
 
 ![“Share Link” dialog showing the URL](https://cdn.hashnode.com/res/hashnode/image/upload/v1753715216430/d7d8a8f3-054e-47c2-9381-4b3570ed19de.gif align="center")
 
-2. **Host** your “Run in Live SQL” button graphic somewhere public (GitHub, your own CDN, etc.) and grab its direct image URL.
+* **Host** your “Run in Live SQL” button graphic somewhere public (GitHub, your own CDN, etc.) and grab its direct image URL.
     
-3. Drop this Markdown into your post:
+* Drop this Markdown into your post:
     
-    ```markdown
-    [![Run in Live SQL](ICON_URL)](LIVE_SQL_SHARE_URL)
-    ```
+
+```plaintext
+markdown [![Run in Live SQL](ICON_URL)](LIVE_SQL_SHARE_URL)
+```
+
+* `ICON_URL`: where you hosted the button image
     
-    * `ICON_URL`: where you hosted the button image
-        
-    * `LIVE_SQL_SHARE_URL`: the full compressed\_code link from Live SQL
-        
+* `LIVE_SQL_SHARE_URL`: the full compressed\_code link from Live SQL
+    
 
 That snippet renders a clickable image that launches your SQL in Live SQL, like shown below:
 
@@ -95,12 +97,11 @@ That snippet renders a clickable image that launches your SQL in Live SQL, like 
 
 ### Step 1: Get the Embed Code
 
-1. Back in Live SQL, click the **Share Code** button → **Embedded Editor**
-    
-2. Click the **Show Code** toggle.
-    
-3. Copy the `<iframe>` snippet provided, like shown below:
-    
+Back in Live SQL, click the **Share Code** button → **Embedded Editor**
+
+Click the **Show Code** toggle.
+
+Copy the `<iframe>` snippet provided, like shown below:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753717103721/17c25ce5-db32-44b7-b898-cf9600fd3151.gif align="center")
 
@@ -108,14 +109,14 @@ That snippet renders a clickable image that launches your SQL in Live SQL, like 
 
 ### Step 2: Paste the Iframe into Your Blog Post
 
-1. Switch your blog to HTML/source view. Or if you use Hashnode, like me, type `/html` in the blog editor to bring up the Insert HTML option.
+* Switch your blog to HTML/source view. Or if you use Hashnode, like me, type `/html` in the blog editor to bring up the Insert HTML option.
     
-2. Paste the iframe where you want the editor to appear.
+* Paste the iframe where you want the editor to appear.
     
-3. Save and preview - your live editor should load, complete with *Run*, *Clear*, and formatting tools.
+* Save and preview - your live editor should load, complete with *Run*, *Clear*, and formatting tools.
     
-
-Note the **Read Only** toggle button shown in your embedded editor:
+* Note the **Read Only** toggle button shown in your embedded editor:
+    
 
 ![Read / read write mode button in embedded Live SQL editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1753717275334/abf7301c-f315-4b8b-8bf3-7e3ea0c6ad53.jpeg align="center")
 
