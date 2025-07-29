@@ -34,64 +34,58 @@ Embedding runnable examples…
 
 ---
 
-## 1\. “Run in Live SQL” Button
+## “Run in Live SQL” Button
 
-### Step 1: Generate Your Shareable Link
+### **Step 1: Copy your shareable URL**
 
-* **Open Live SQL** and paste your SQL snippet into the editor.
-    
-* Click the **Share** button.
+* Paste your SQL snippet into Live SQL and click **Share**.
     
 
-![Share Code” button in Live SQL’s worksheet](https://cdn.hashnode.com/res/hashnode/image/upload/v1753551889112/98bdf12b-9657-4dee-a5d8-3eeffc0b51eb.gif align="center")
+![Share Code” button in Live SQL’s worksheet](https://cdn.hashnode.com/res/hashnode/image/upload/v1753551889112/98bdf12b-9657-4dee-a5d8-3eeffc0b51eb.gif align="left")
 
-* In the dialog that appears, select **Run in Live SQL Button** and toggle **Show Code**.
+* In the dialog, select **Run in Live SQL Button**.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753729684714/680a36cb-e98c-4cd5-91e4-efec77897cfd.gif align="right")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753729684714/680a36cb-e98c-4cd5-91e4-efec77897cfd.gif align="left")
 
-* **Copy** the generated HTML snippet (it’ll look like an `<a href="…">` tag).
+* Click **Copy Code** at the bottom of the drawer to grab your `compressed_code` URL.
     
 
-### Step 2: Turn It into a Blog-Friendly Button
+> **Fallback:** If you really need the full HTML snippet, switch to the **Show Code** tab and click **Copy**.
 
-If your blog platform **doesn’t** let you paste raw HTML:
+### **Step 2: Insert the button in your blog**
 
-* Within the “*Share Code”* sliding drawer, click the *“Share Link”* tab. And copy the URL displayed. It looks something like this:
+* **If your platform supports raw HTML**  
+    Simply paste the `<a>` tag you got from the previous step:
     
-
-```plaintext
-https://livesql.oracle.com/next/?compressed_code=H4sIA…&code_language=PL_SQL
-```
-
-* Here’s where you can find the “*Share Link*” tab:
+    ```plaintext
+    htmlCopyEdit<a href="https://livesql.oracle.com/next/?compressed_code=…&code_language=PL_SQL"
+       style="background-color:black;color:white;padding:0.4rem;border-radius:0.25rem;display:inline-flex;align-items:center;text-decoration:none;"
+       target="_blank" rel="noopener">
+      <img src="ICON_URL" alt="Run in Live SQL" style="width:20px;height:20px;margin-right:0.4rem;">
+      <span>Run in Live SQL</span>
+    </a>
+    ```
     
-
-![“Share Link” dialog showing the URL](https://cdn.hashnode.com/res/hashnode/image/upload/v1753715216430/d7d8a8f3-054e-47c2-9381-4b3570ed19de.gif align="center")
-
-* **Host** your “Run in Live SQL” button graphic somewhere public (GitHub, your own CDN, etc.) and grab its direct image URL.
+* **If your platform only lets you use Markdown**  
+    Host the button graphic somewhere public (GitHub, CDN, etc.), then drop this into your post:
     
-* Drop this Markdown into your post:
+    ```plaintext
+    [![Click here to run in Live SQL](ICON_URL)](LIVE_SQL_SHARE_URL)
+    ```
     
+    * **ICON\_URL**: link to your hosted button image
+        
+    * **LIVE\_SQL\_SHARE\_URL**: the `compressed_code` link you copied
+        
 
-```plaintext
-markdown [![Run in Live SQL](ICON_URL)](LIVE_SQL_SHARE_URL)
-```
-
-* `ICON_URL`: where you hosted the button image
-    
-* `LIVE_SQL_SHARE_URL`: the full compressed\_code link from Live SQL
-    
-
-That snippet renders a clickable image that launches your SQL in Live SQL, like shown below:
+Either approach renders a clickable button that launches your snippet in Live SQL, like shown below:
 
 [![Run in Live SQL](https://raw.githubusercontent.com/laylacodes/sqlproject/d332d4e93413711255815dcf3772414b3276cf0a/runinlivesqlicon.jpg align="left")](https://livesql.oracle.com/next/?compressed_code=%E2%80%A6)
 
-> **Tip:** If your platform *does* allow raw HTML, you can skip the Markdown workaround and just paste the original `<a>` tag you copied in Step 1.
-
 ---
 
-## 2\. Embedded Live SQL Editor
+## Embedded Live SQL Editor
 
 <iframe id="live-sql-embedded" src="https://livesql.oracle.com/next/embedded/?layout=vertical&compressed_code=H4sIAAAAAAAAE03KoQrDMBAGYJ%252Bn%252BF02WMyYapkIyZUUkh7kzkSFQufquom9fW0%252F%252FfmsVCEkMvMCIcWSpUev1CeuxSvesK215kpxMdrRCGUKCuUekq%252B3439s6%252FfzuC6k9HwNZR5E7N0AU%252BWC7bfuo3GOOJz3Hq2ddQAAAA%253D%253D&code_language=PL_SQL&code_format=false" height="460px" width="100%" style="width:100%;border:1px solid #e0e0e0;border-radius:12px;overflow:hidden">Live SQL Embedded Playground</iframe>
 
