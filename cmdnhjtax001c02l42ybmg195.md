@@ -87,15 +87,16 @@ Either approach renders a clickable button that launches your snippet in Live SQ
 
 ## Embedded Live SQL Editor
 
-<iframe id="live-sql-embedded" src="https://livesql.oracle.com/next/embedded/?layout=vertical&compressed_code=H4sIAAAAAAAAE03KoQrDMBAGYJ%252Bn%252BF02WMyYapkIyZUUkh7kzkSFQufquom9fW0%252F%252FfmsVCEkMvMCIcWSpUev1CeuxSvesK215kpxMdrRCGUKCuUekq%252B3439s6%252FfzuC6k9HwNZR5E7N0AU%252BWC7bfuo3GOOJz3Hq2ddQAAAA%253D%253D&code_language=PL_SQL&code_format=false" height="460px" width="100%" style="width:100%;border:1px solid #e0e0e0;border-radius:12px;overflow:hidden">Live SQL Embedded Playground</iframe>
+<iframe id="live-sql-embedded" src="https://livesql.oracle.com/next/embedded/?layout=vertical&amp;compressed_code=H4sIAAAAAAAAEwt29XF1DuFSUFBQUPdIzcnJV%252FDJLEtVCA70UVRXcAxWcA9ydQ3x9HPncgvy9wUrcwl19LHW1XX1dwYAVcSuejwAAAA%253D&amp;code_language=PL_SQL&amp;code_format=true" height="460px" width="100%" style="width:100%;border:1px solid #e0e0e0;border-radius:12px;overflow:hidden">Live SQL Embedded Playground</iframe>
 
 ### Step 1: Get the Embed Code
 
-Back in Live SQL, click the **Share Code** button → **Embedded Editor**
-
-Click the **Show Code** toggle.
-
-Copy the `<iframe>` snippet provided, like shown below:
+* Back in Live SQL, click the **Share Code** button → **Embedded Editor**
+    
+* Click the **Show Code** toggle.
+    
+* Copy the `<iframe>` snippet provided, like shown below:
+    
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753717103721/17c25ce5-db32-44b7-b898-cf9600fd3151.gif align="center")
 
@@ -114,7 +115,7 @@ Copy the `<iframe>` snippet provided, like shown below:
 
 ![Read / read write mode button in embedded Live SQL editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1753717275334/abf7301c-f315-4b8b-8bf3-7e3ea0c6ad53.jpeg align="center")
 
-This feature gives you (the embedded editor creator) the option to toggle your embedded editor to *read-write mode*, which means: when you switch on the *read-write toggle*, anyone viewing your embedded editor can sign in with their own Live SQL account and run or modify the code directly. All queries they execute will run against their personal schema!
+By default your embedded editor runs in **Read-Only** mode, which only lets visitors play with Live SQL’s sample schemas. Flip on the **Read-Write** toggle and anyone viewing your post can sign in with their own Live SQL account—so they can create tables, modify your snippet, and run queries against their personal schema for a fully hands-on experience! 🤠
 
 ---
 
