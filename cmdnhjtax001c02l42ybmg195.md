@@ -51,7 +51,7 @@ Embedding runnable examples…
 * Click **Copy Code** at the bottom of the drawer to grab your `compressed_code` URL.
     
 
-> **Fallback:** If you really need the full HTML snippet, switch to the **Show Code** tab and click **Copy**.
+> **Fallback:** If you really need the full HTML snippet, switch to the **Show Code** tab as shown in the GIF above and click **Copy**.
 
 ### **Step 2: Insert the button in your blog**
 
