@@ -46,10 +46,10 @@ Embedding runnable examples…
 * In the dialog, select **Run in Live SQL Button**.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753729684714/680a36cb-e98c-4cd5-91e4-efec77897cfd.gif align="left")
-
 * Click **Copy Code** at the bottom of the drawer to grab your `compressed_code` URL.
     
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753729684714/680a36cb-e98c-4cd5-91e4-efec77897cfd.gif align="left")
 
 > **Fallback:** If you really need the full HTML snippet, switch to the **Show Code** tab as shown in the GIF above and click **Copy**.
 
