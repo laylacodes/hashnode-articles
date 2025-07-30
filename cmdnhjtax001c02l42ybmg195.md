@@ -43,7 +43,7 @@ Embedding runnable examples…
 
 ![Share Code” button in Live SQL’s worksheet](https://cdn.hashnode.com/res/hashnode/image/upload/v1753551889112/98bdf12b-9657-4dee-a5d8-3eeffc0b51eb.gif align="left")
 
-* In the dialog, select **Run in Live SQL Button**.
+* In the dialog, scroll down and select **Run in Live SQL Button**.
     
 
 * Click **Copy Code** at the bottom of the drawer to grab your `compressed_code` URL.
