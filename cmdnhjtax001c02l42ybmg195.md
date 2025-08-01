@@ -38,18 +38,18 @@ Embedding runnable examples…
 
 ### **Step 1: Copy your shareable URL**
 
-* Paste your SQL snippet into Live SQL and click **Share**.
+* Paste your SQL snippet into Live SQL and click **Share**
     
-
-![Share Code” button in Live SQL’s worksheet](https://cdn.hashnode.com/res/hashnode/image/upload/v1753551889112/98bdf12b-9657-4dee-a5d8-3eeffc0b51eb.gif align="left")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754064205908/ca177b1f-b99f-4c7c-a2ed-cb0ebc6c1a75.png align="center")
+    
 
 * In the dialog, scroll down and select **Run in Live SQL Button**.
     
 
 * Click **Copy Code** at the bottom of the drawer to grab your `compressed_code` URL.
     
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753729684714/680a36cb-e98c-4cd5-91e4-efec77897cfd.gif align="left")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754066280952/d04b9193-acc7-4ddf-b2d4-563ca7acdf6f.gif align="center")
+    
 
 > **Fallback:** If you really need the full HTML snippet, switch to the **Show Code** tab as shown in the GIF above and click **Copy**.
 
@@ -95,10 +95,10 @@ Either approach renders a clickable button that launches your snippet in Live SQ
     
 * Click the **Show Code** toggle.
     
-* Copy the `<iframe>` snippet provided, like shown below:
+* Copy the `<iframe>` snippet provided, like shown below
     
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1753717103721/17c25ce5-db32-44b7-b898-cf9600fd3151.gif align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754066530739/dcd09ce3-1fc7-4630-8506-e95e396b4755.gif align="center")
+    
 
 ---
 
