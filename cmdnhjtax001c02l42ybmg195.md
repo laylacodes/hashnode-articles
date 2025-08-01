@@ -51,7 +51,7 @@ Embedding runnable examples…
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754066280952/d04b9193-acc7-4ddf-b2d4-563ca7acdf6f.gif align="center")
     
 
-> **Fallback:** If you really need the full HTML snippet, switch to the **Show Code** tab as shown in the GIF above and click **Copy**.
+> **Fallback:** If you really need the full HTML snippet, switch to the **Show Code** tab shown in the GIF above and click **Copy**.
 
 ### **Step 2: Insert the button in your blog**
 
@@ -113,7 +113,7 @@ Either approach renders a clickable button that launches your snippet in Live SQ
 * Note the **Read Only** toggle button shown in your embedded editor:
     
 
-![Read / read write mode button in embedded Live SQL editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1753717275334/abf7301c-f315-4b8b-8bf3-7e3ea0c6ad53.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754066825625/4d351c0c-d490-40c8-a158-d9fc5d97725b.png align="center")
 
 By default your embedded editor runs in **Read-Only** mode, which only lets visitors play with Live SQL’s sample schemas. Flip on the **Read-Write** toggle and anyone viewing your post can sign in with their own Live SQL account—so they can create tables, modify your snippet, and run queries against their personal schema for a fully hands-on experience! 🤠
 
