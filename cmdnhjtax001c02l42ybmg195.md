@@ -8,7 +8,9 @@ tags: blogging, databases, sql, howtos
 
 ---
 
-Ever wish your blogs’ readers could go from “*wow, that’s cool*” to “*let me try that!*” in a heartbeat? Enter the **Run in LiveSQL** button and the **Live SQL embeddable editor** - your secret weapons for turning static code snippets into a hands‑on experience 🤙🏽 No clunky `.zip` downloads. No manual copy‑pasting. Just one tap, and boom: your SQL runs live in Oracle’s cloud editor! 🤗
+Ever wish your blog’s readers could go from “wow, that’s cool” to “let me try that!” in a heartbeat? That’s exactly what [**Oracle Live SQL**](https://livesql.oracle.com/next/) makes possible. It’s a free, cloud-based SQL playground that lets you write, run, and share Oracle SQL snippets—no local setup needed.
+
+Now, thanks to two new features—the **Run in Live SQL** button and the **Live SQL Embedded Editor**—you can turn those static code blocks in your blog into an interactive, hands-on experience 🤙🏽 No clunky .zip downloads. No manual copy-pasting. Just one tap, and boom: your SQL runs live in Live SQL! 🤗
 
 The Live SQL team has created two options for you to share interactive snippets with your audience:
 
@@ -81,7 +83,7 @@ Embedding runnable examples…
 
 Either approach renders a clickable button that launches your snippet in Live SQL, like shown below:
 
-[![Run in Live SQL](https://raw.githubusercontent.com/laylacodes/sqlproject/d332d4e93413711255815dcf3772414b3276cf0a/runinlivesqlicon.jpg align="left")](https://livesql.oracle.com/next/?compressed_code=%E2%80%A6)
+[![Run in Live SQL](https://raw.githubusercontent.com/laylacodes/sqlproject/d332d4e93413711255815dcf3772414b3276cf0a/runinlivesqlicon.jpg align="left")](https://livesql.oracle.com/next/?compressed_code=H4sIAAAAAAAAEwt29XF1DuFSUFBQUPdIzcnJV%252FDJLEtVCA70UVRXcAxWcA9ydQ3x9HPncgvy9wUrcwl19LHW1XX1dwYAVcSuejwAAAA%253D&code_language=PL_SQL&code_format=false)
 
 ---
 
@@ -141,6 +143,6 @@ And that’s it! 🎉 With just a few clicks, you can transform your static SQL 
 
 ---
 
-> 🔗 **Share your feedback!** If you try this out in your next blog post, tweet at us @OracleLiveSQL or me @pilatesdev. We’d love to see what you build!
+> 🔗 **Share your feedback!** If you try this out in your next blog post, tweet at us [@OracleLiveSQL](https://x.com/OracleLiveSQL) or me [@pilatesdev](https://x.com/pilatesdev). We’d love to see what you build!
 
 Happy blogging—and happy querying! 🚀
